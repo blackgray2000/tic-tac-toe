@@ -1,2 +1,2 @@
 # tic-tac-toe
-c program practice
+tic-tac-toe practice with different languages
